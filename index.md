@@ -1,7 +1,11 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/yarwarr/SWEN-101/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+Hi, my name is Mubashar Warriach, I am from Albany and went to Albany High. I like to play video games, hang out with my friends and ride electric skateboards. 
+My favourite food is Biryani which is a Pakistani food.![Best-Mutton-Biryani-Recipe](https://user-images.githubusercontent.com/89494992/135136050-935a8cc5-c291-4155-87b8-2eeca71f93b6.jpg)
+I am taking this Software Engineering seminar class. http://www.se.rit.edu/~swen-101/00/index.html
+. I would like to learn how to program useful programs
+. I would like to make databases and edit them
+. I would also like to make an AI tool that learns from the user and improve itself 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
