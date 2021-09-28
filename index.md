@@ -6,7 +6,11 @@ I am taking this Software Engineering seminar class. http://www.se.rit.edu/~swen
 . I would like to learn how to program useful programs
 . I would like to make databases and edit them
 . I would also like to make an AI tool that learns from the user and improve itself 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
 
 ### Markdown
 
